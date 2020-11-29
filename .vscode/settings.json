@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/local/src/anaconda/envs/Tensorflow2/bin/python",
+    "jupyter.jupyterServerType": "local"
+}
